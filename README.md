@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=kebojuara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=kebojuara&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kebojuara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="William Hans Chandra's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=kebojuara&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true" height="192px"/>
+    </a>
+</p>
