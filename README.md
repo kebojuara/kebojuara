@@ -6,7 +6,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/williamhansc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/william-hans-chandra-b24a6722b/)
-[![Portfolio](https://img.shields.io/badge/Website-williamchandra.web.id-0077B5?style=for-the-badge)](https://williamchandra.web.id/)
 
 ---
 
