@@ -4,9 +4,9 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/williamhansc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNUMzIDMuODk1IDMuODk1IDMgNSAzgaDE0em0tLjUgMTUuNVYxMy4yYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTIyLTIuMzIgMS4zbnYtMS4xMWgtMi43OHY4LjM3aDIuNzh2LTQuOTNjMC0uNzcuNjItMS40IDEuMzk1LTEuNHMuOTk1LjYyMy45OTUgMS40djQuOTNoMi4xOXpNNi44OCAxOC41djgtOC4zN0g5LjY2djguMzdINi44OHpOC4yNyA1Ljc1YTEuNjIgMS42MiAwIDAgMC0xLjYzIDEuNjIgMS42MiAxLjYyIDAgMCAwIDEuNjMgMS42MiAxLjYyIDEuNjIgMCAwIDAgMS42Mi0xLjYyIDEuNjIgMS42MiAwIDAgMC0xLjYyLTEuNjJ6Ii8+PC9zdmc+)](https://www.linkedin.com/in/william-hans-chandra-b24a6722b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://williamchandra.web.id/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/williamhansc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://www.linkedin.com/in/william-hans-chandra-b24a6722b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg)](https://williamchandra.web.id/)
 
 ---
 
